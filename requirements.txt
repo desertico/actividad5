@@ -1,5 +1,6 @@
 argon2-cffi==21.1.0
 flake8
+pytest
 attrs==19.3.0
 Automat==0.8.0
 backcall==0.2.0
