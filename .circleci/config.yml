@@ -20,5 +20,5 @@ jobs:
               name: run tests  
               command: |
                   . venv/bin/activate
-                  flake8 --exclude=env* --statistics
+                  #   flake8 --exclude=env* --statistics
                   pytest pruebaunitaria.py
