@@ -1,4 +1,4 @@
-# content of test_sample.py
+# contenido de prueba unitaria
 def suma(x):
     return x + 1
 def resta(x):
