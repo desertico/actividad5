@@ -5,7 +5,7 @@ jobs:
   build:
     docker:
       - image: circleci/python:3.9
-    working_directory: ~/devops   
+    working_directory: ~/actividad5   
     steps:
         - checkout
         - run: 
