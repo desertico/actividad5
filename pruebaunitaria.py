@@ -1,4 +1,4 @@
-# contenido de prueba unitaria 5
+# contenido de la prueba unitaria 5
 def suma(x):
     return x + 1
 def resta(x):
